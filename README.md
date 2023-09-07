@@ -1,7 +1,14 @@
-# Ehnus MERN Assignments
+# Ethnus MERN Assignments
+
 # Link- https://cruzport.github.io/MERN/
 
 # Student Information-
-Name- Santrapt Verma,
-Reg no:21BCE1039,
-Email ID- santrapt.verma2021@gmail.com
+
+
+Name- **_Santrapt Verma_**
+
+
+Reg no:  **_21BCE10397_**
+
+
+Email ID- **_santrapt.verma2021@vitbhopal.ac.in_**
